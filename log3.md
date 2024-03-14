@@ -1,6 +1,6 @@
 ## Day 3: March 14, 2024
 
-**Today's Progress**: Almost done with the financial management system project.  Got to lear how to add an external library and implement it in my project.
+**Today's Progress**: Almost done with the financial management system project.  Got to learn how to add an external library and implement it in my project.
 
 __Thoughts__: The system looks okay and works fine, but I feel like I could do some modifications to make the look and feel better.
 

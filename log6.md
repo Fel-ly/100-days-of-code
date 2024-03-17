@@ -1,4 +1,4 @@
-## Day 3: March 14, 2024
+## Day 6: March 17, 2024
 
 **Today's Progress**: Still working on connecting the project to the database. I was able to create the database and the required table and values, but I'm facing trouble accessing the jar file required to complete the connection.
 

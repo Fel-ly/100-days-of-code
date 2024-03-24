@@ -1,6 +1,6 @@
 ## Day 13: March 24, 2024
 
-**Today's Progress**: Created the dashboard form. Set the code to check that the required database, table or any records exist.
+**Today's Progress**: Created the dashboard form. Set the code to check whether the required database, table or any records exist.
 
 __Thoughts__: Coding is really fun when you actually understand what you're doing.
 

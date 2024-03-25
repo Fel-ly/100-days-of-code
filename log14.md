@@ -4,4 +4,4 @@
 
 __Thoughts__: The bugs😣😒
 
-___Link to work___: https://github.com/Fel-ly/Finance-Management-System.git jh
+___Link to work___: https://github.com/Fel-ly/Finance-Management-System.git

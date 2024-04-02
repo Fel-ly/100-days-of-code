@@ -1,4 +1,4 @@
-## Day 22: April 1, 2024
+## Day 22: April 2, 2024
 
 **Today's Progress**: 
 
